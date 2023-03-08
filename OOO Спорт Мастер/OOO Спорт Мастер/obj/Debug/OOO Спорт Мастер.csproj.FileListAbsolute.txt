@@ -1,0 +1,29 @@
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\OOO Спорт Мастер.exe.config
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\OOO Спорт Мастер.exe
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\OOO Спорт Мастер.pdb
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\MainWindow.g.cs
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\App.g.cs
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер_MarkupCompile.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер_MarkupCompile.lref
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\MainWindow.baml
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.g.resources
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO_Спорт_Мастер.Properties.Resources.resources
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.exe
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.pdb
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\ProductWindow.g.cs
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\ProductWindow.baml
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\EntityFramework.dll
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\EntityFramework.xml
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\EnditingProductWindow.g.cs
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер_Content.g.cs
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\EnditingProductWindow.baml
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OOO Спорт Мастер.csproj.CopyComplete
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OrderWindow.g.cs
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\МАТЫСИК\OOO Спорт Мастер\OOO Спорт Мастер\obj\Debug\OrderWindow.baml

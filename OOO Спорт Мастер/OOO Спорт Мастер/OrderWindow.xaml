@@ -1,0 +1,66 @@
+﻿<Window x:Class="OOO_Спорт_Мастер.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOO_Спорт_Мастер"
+        mc:Ignorable="d"
+        Title="OrderWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="124*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="75*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="507*"/>
+            <ColumnDefinition Width="293*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBlock x:Name="TextBoxDecriptionOrder" Grid.Column="1" HorizontalAlignment="Left" Margin="18,8,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="103" Width="262" Grid.Row="1"/>
+        <ComboBox x:Name="ComboBoxPoint" Grid.Column="1" HorizontalAlignment="Left" Margin="35,0,0,0" Grid.Row="3" VerticalAlignment="Center" Width="229"/>
+        <Button x:Name="ButtonCreateOrder" Grid.Column="1" Content="Оформить заказ" HorizontalAlignment="Center" Margin="0,17,0,0" Grid.Row="4" VerticalAlignment="Top" Width="205" Height="35"/>
+        <Button IsEnabled="False" x:Name="ButtonCreateChek" Grid.Column="1" Content="Оформить заказ" HorizontalAlignment="Center" Margin="0,16,0,0" Grid.Row="5" VerticalAlignment="Top" Width="205" Height="35"/>
+        <Label Grid.Column="1" Content="Описание заказа" HorizontalAlignment="Left" Margin="41,0,0,0" VerticalAlignment="Center" Width="203"/>
+        <Label Grid.Column="1" Content="Описание заказа" HorizontalAlignment="Left" Margin="41,4,0,0" VerticalAlignment="Center" Width="203" Grid.Row="2"/>
+        <ListView x:Name="ListViewOrder" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="-2,3,0,0" Grid.RowSpan="6" Height="430" VerticalAlignment="Top">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Height="139" Width="475">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="129*"/>
+                            <ColumnDefinition Width="227*"/>
+                            <ColumnDefinition Width="119*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Margin="14,6,22,11" Source="{Binding ProductPhoto}"/>
+                        <TextBlock Grid.Column="1" Margin="5,4,20,3">
+                         
+   
+                        <Run Text="Наименование: "/>
+                        <Run Text="{Binding ProductName}"/>
+
+                        <Run Text="&#x0a;Описание: "/>
+                        <Run Text="{Binding Provider.ProviderName}"/>
+
+                        <Run Text="&#x0a;Категории: "/>
+                        <Run Text="{Binding Category.CategoryName}"/>
+
+                        <Run Text="&#x0a;Цена: "/>
+                        <Run Text="{Binding ProductCost}"/>
+
+                        <Run Text="&#x0a;Скидка: "/>
+                        <Run Text="{Binding ProductDiscount}"/>
+                        </TextBlock>
+                        <TextBox Name="TextBoxCountProduct" Text="{Binding CountProductInOrder}" Margin="5,87,89,27" Grid.Column="1"/>
+                        <Button Grid.Column="2" Margin="13,50,17,47" Content="Удалить"></Button>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="OOO_Спорт_Мастер.EnditingProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOO_Спорт_Мастер"
+        mc:Ignorable="d"
+        Title="Редактирование товаров" Height="450" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="134*"/>
+            <RowDefinition Height="83*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="203*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TextBoxArtikle" HorizontalAlignment="Center" Margin="0,21,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154" Height="18"/>
+        <TextBox x:Name="TextBoxName" HorizontalAlignment="Center" Margin="0,54,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154" Height="18"/>
+        <TextBox x:Name="TextBoxDecription" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154" Height="89" Margin="18,86,0,0"/>
+        <TextBox x:Name="TextBoxCost" HorizontalAlignment="Center" Margin="0,190,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154" Height="18"/>
+        <TextBox x:Name="TextBoxDiscouint" HorizontalAlignment="Center" Margin="0,227,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154" Height="18"/>
+        <TextBox x:Name="TextBoxCount" HorizontalAlignment="Center" Margin="0,142,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154" Height="18" Grid.Row="1"/>
+        <ComboBox x:Name="ComboBoxProvider" HorizontalAlignment="Center" Margin="0,5,0,0" VerticalAlignment="Top" Width="154" Height="22" Grid.Row="1"/>
+        <ComboBox x:Name="ComboBoxManufacture" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" Width="154" Height="22" Grid.Row="1"/>
+        <ComboBox x:Name="ComboBoxCategory" HorizontalAlignment="Center" Margin="0,70,0,0" VerticalAlignment="Top" Width="154" Height="22" Grid.Row="1"/>
+        <ComboBox x:Name="ComboBoxUnid" HorizontalAlignment="Center" VerticalAlignment="Top" Width="154" Height="22" Grid.Row="1" Margin="0,106,0,0"/>
+        <Image  Grid.Column="1" HorizontalAlignment="Left" Height="212" Margin="99,19,0,0" VerticalAlignment="Top" Width="212" Source="/man.jpg"/>
+        <Button x:Name="ButtonAddImage" Grid.Column="1" Content="Добавить фото" HorizontalAlignment="Left" Margin="111,8,0,0" VerticalAlignment="Top" Grid.Row="1" Width="94"/>
+        <Button x:Name="ButtonSave" Grid.Column="1" Content="Сохранить" HorizontalAlignment="Left" Margin="281,133,0,0" VerticalAlignment="Top" Grid.Row="1" Width="105"/>
+        <Button x:Name="ButtonDelete" Grid.Column="1" Content="Удалить" HorizontalAlignment="Left" Margin="163,133,0,0" VerticalAlignment="Top" Grid.Row="1" Width="105"/>
+        <Button x:Name="ButtonCancel" Grid.Column="1" Content="Отмена" HorizontalAlignment="Left" Margin="44,133,0,0" VerticalAlignment="Top" Grid.Row="1" Width="105"/>
+        <Button x:Name="ButtonAddImage_Copy" Grid.Column="1" Content="Удалить фото" HorizontalAlignment="Left" Margin="227,8,0,0" VerticalAlignment="Top" Grid.Row="1" Width="94"/>
+
+    </Grid>
+</Window>
